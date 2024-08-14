@@ -1,0 +1,23 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+li:hover{
+    color: beige;
+    cursor: pointer;
+}
+
+nav{
+    background-color: black;
+    height: 60px;
+    color: white;
+    align-content: center;
+}
+
+header.footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}

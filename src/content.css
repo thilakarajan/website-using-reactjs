@@ -1,0 +1,29 @@
+.content{
+    
+    margin-top: 10vh;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    margin: 0px auto;
+}
+
+th,td{
+    padding: 10px;
+    border: 1px solid black;
+}
+
+form{
+    margin: 0px auto;
+    width: fit-content;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+span{
+    display: flex;
+    flex-direction: column;
+}
